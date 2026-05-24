@@ -1,0 +1,29 @@
+WI-FI SECURITY AUDIT REPORT
+Date: 2026-05-24 18:55:15.588893
+Networks Scanned: 5
+
+Network: Galaxy A06 5G 5629
+Security: WPA3-Personal
+Score: 40/100
+Strength: MODERATE 🟠
+
+Network: Excitel_2.4G.renuka
+Security: WPA3-Personal
+Score: 0/100
+Strength: VERY WEAK ❌
+
+Network: realme narzo 60 5G
+Security: WPA3-Personal
+Score: 50/100
+Strength: MODERATE 🟠
+
+Network: Excitel_renuka 5g
+Security: WPA2-Personal
+Score: 0/100
+Strength: VERY WEAK ❌
+
+Network: ERNEST
+Security: WPA3-Personal
+Score: 60/100
+Strength: STRONG 🟡
+
